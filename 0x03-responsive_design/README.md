@@ -15,4 +15,4 @@ Collection of tasks to learn how to make a website responsive on multiple device
 ![img](./images/screenshot.jpg)
 
 ## Author
-* **Sebagadis Kahsay** - [Svcg17](https://github.com/sebagadisk)
+* **Sebagadis Kahsay** - [sebagadisk](https://github.com/sebagadisk)
